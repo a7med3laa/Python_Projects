@@ -22,4 +22,4 @@ Simple projects with Python with GUI using Tkinter and some without it.
 
 10. GUI - Security encryption and decryption
 
-## 11. GUI - Alarm Clock
+11. GUI - Alarm Clock
