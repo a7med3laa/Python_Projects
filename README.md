@@ -1,6 +1,6 @@
 # Python_Projects
 
-Simple projects with Python with GUI using Tkinter and some without it. 
+Simple Python projects with GUI using Tkinter and some without it. 
 
 1. Simple Calculator
 
